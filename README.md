@@ -26,6 +26,7 @@ mail : seop3445@naver.com
 #### 💞️ experience 
 
 ✨ PlayData Bootcamp (2023.06.22 ~ 2023.12.21)
+
 과정명 : 풀스택 벡엔드 개발자 양성 과정
 
 - Project
