@@ -36,11 +36,13 @@ mail : seop3445@naver.com
 
   mini project 3 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject3)
   
-  mini project 4 :
+  mini project 4 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject4)
 
-  mini project 5 :
+  mini project 5 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject5)
 
-  final project : 
+  final project :
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so)](https://www.notion.so/Final-project-3964632668e0462bb5cb0cf209e411da)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_finalProject)
 
 <!---
 Kim-taeseop/Kim-taeseop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
