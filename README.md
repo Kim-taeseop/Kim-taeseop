@@ -32,10 +32,10 @@ mail : seop3445@naver.com
   
   mini project 1 : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)](https://velog.io/@kts3445/PlayData-Mini-project-1)
 
-  mini project 2 : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)]([https://velog.io/@kts3445/PlayData-Mini-project-1](https://velog.io/@kts3445/PlayData-Mini-project2))
+  mini project 2 : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)](https://velog.io/@kts3445/PlayData-Mini-project2)
 
-  mini project 3 : [![GitHub Badge(
-
+  mini project 3 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject3)
+  
   mini project 4 :
 
   mini project 5 :
