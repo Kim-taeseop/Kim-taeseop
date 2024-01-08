@@ -31,17 +31,17 @@ mail : seop3445@naver.com
 
 - Project
   
-  mini project 1 : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)](https://velog.io/@kts3445/PlayData-Mini-project-1)
+  mini project 1 (2023.07.07 ~ 2023.07.10) : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)](https://velog.io/@kts3445/PlayData-Mini-project-1)
 
-  mini project 2 : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)](https://velog.io/@kts3445/PlayData-Mini-project2)
+  mini project 2 (2023.07.19 ~ 2023.07.21) : [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kts3445)](https://velog.io/@kts3445/PlayData-Mini-project2)
 
-  mini project 3 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject3)
+  mini project 3 (2023.08.07 ~ 2023.08.09) : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject3)
   
-  mini project 4 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject4)
+  mini project 4 (2023.08.31 ~ 2023.09.04) : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject4)
 
-  mini project 5 : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject5)
+  mini project 5 (2023.09.20 ~ 2023.09.25) : [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_miniProject5)
 
-  final project :
+  final project (2023.10.16 ~ 2023.12.21) :
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so)](https://www.notion.so/Final-project-3964632668e0462bb5cb0cf209e411da)
   [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/Kim-taeseop/PlayData_finalProject)
 
